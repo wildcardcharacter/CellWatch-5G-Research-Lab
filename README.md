@@ -2,6 +2,10 @@
 
 **Understanding Cellular Networks Through Controlled Research.**
 
+<p align="center">
+  <img src="assets/cellwatch-5g-icon.svg" alt="CellWatch 5G Research Lab: cellular mast and monitoring signal icon" width="180" />
+</p>
+
 **Choose your language / Sprache auswählen:**  [🇩🇪 Deutsch](#deutsch) · [🇬🇧 English](#english)
 
 [![Platform](https://img.shields.io/badge/platform-Debian%2013-A81D33?logo=debian&logoColor=white)](https://www.debian.org/)

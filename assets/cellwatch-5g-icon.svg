@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" role="img" aria-labelledby="title desc">
+  <title id="title">CellWatch 5G Research Lab</title>
+  <desc id="desc">A cellular mast inside a monitoring ring, with 5G signal waves.</desc>
+  <defs>
+    <linearGradient id="bg" x1="24" y1="18" x2="232" y2="238" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#102B3A"/>
+      <stop offset="1" stop-color="#07151F"/>
+    </linearGradient>
+    <linearGradient id="signal" x1="75" y1="48" x2="188" y2="198" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#63F3D0"/>
+      <stop offset="1" stop-color="#48B9FF"/>
+    </linearGradient>
+  </defs>
+  <rect x="8" y="8" width="240" height="240" rx="62" fill="url(#bg)"/>
+  <circle cx="128" cy="128" r="91" stroke="#244656" stroke-width="2"/>
+  <circle cx="128" cy="128" r="78" stroke="#1B3948" stroke-width="1" stroke-dasharray="3 8"/>
+  <path d="M92 89a51 51 0 0 1 72 0M104 101a34 34 0 0 1 48 0" fill="none" stroke="url(#signal)" stroke-width="7" stroke-linecap="round"/>
+  <circle cx="128" cy="111" r="5" fill="#63F3D0"/>
+  <path d="m128 118-31 91m31-91 31 91m-50-55h38m-46 25h54m-61 30h68m-60-55 26 16 26-16" fill="none" stroke="#D8F4F5" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M115 119h26" stroke="#63F3D0" stroke-width="6" stroke-linecap="round"/>
+  <circle cx="128" cy="128" r="4" fill="#63F3D0"/>
+  <path d="M48 128h16m128 0h16M128 48v12m0 136v12" stroke="#48B9FF" stroke-width="3" stroke-linecap="round" opacity=".65"/>
+</svg>
