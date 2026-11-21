@@ -1,0 +1,39 @@
+# Private laboratory data and RF captures
+data/*
+!data/.gitkeep
+*.pcap
+*.pcapng
+*.sigmf-data
+*.cfile
+*.iq
+*.raw
+
+# Credentials and local configuration
+.env
+.env.*
+*.key
+*.pem
+*.p12
+*.pfx
+secrets/
+credentials/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Build output
+build/
+dist/
+target/
+*.o
+*.so
+*.a
+
+# Editor and operating system files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
