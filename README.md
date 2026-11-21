@@ -2,6 +2,8 @@
 
 **Understanding Cellular Networks Through Controlled Research.**
 
+**Choose your language / Sprache auswählen:**  [🇩🇪 Deutsch](#deutsch) · [🇬🇧 English](#english)
+
 [![Platform](https://img.shields.io/badge/platform-Debian%2013-A81D33?logo=debian&logoColor=white)](https://www.debian.org/)
 [![Research](https://img.shields.io/badge/focus-5G%20SA%20%7C%20SDR%20%7C%20Security-blue)](#research-focus)
 [![Status](https://img.shields.io/badge/status-Research%20in%20Progress-orange)](#roadmap)
@@ -12,6 +14,7 @@ CellWatch 5G Research Lab is an independent, privately operated research project
 
 ---
 
+<a name="deutsch"></a>
 ## 🇩🇪 Deutsch
 
 ### Projektüberblick
@@ -59,6 +62,7 @@ Eine Abschirmung allein ersetzt keine erforderliche Frequenzzuteilung oder sonst
 
 ---
 
+<a name="english"></a>
 ## 🇬🇧 English
 
 ### Project Overview
