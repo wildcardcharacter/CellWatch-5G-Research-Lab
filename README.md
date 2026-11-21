@@ -60,6 +60,12 @@ Das Labor ist für Forschung an eigenen Systemen und in kontrollierten Funkumgeb
 
 Eine Abschirmung allein ersetzt keine erforderliche Frequenzzuteilung oder sonstige behördliche Genehmigung. Funkübertragungen erfolgen nur, wenn die rechtlichen und technischen Voraussetzungen dafür erfüllt sind. Wo dies nicht gegeben ist, werden Experimente leitungsgebunden, in geeigneten abgeschirmten Aufbauten oder mit aufgezeichneten Testdaten durchgeführt.
 
+### Hintergrund und Quellen
+
+- **BND-Bezug, direkt und offiziell:** [Bundestagsbericht 2022 (PDF)](https://dserver.bundestag.de/btd/20/142/2014200.pdf). Er erklärt Funktionsweise und Rechtsgrundlage von IMSI-Catchern und nennt **30 Einsätze der Nachrichtendienste des Bundes** im Jahr 2022. Die Zahl ist für BfV, BND und MAD zusammen ausgewiesen, nicht nur für den BND. [Bericht ansehen](https://dserver.bundestag.de/btd/20/142/2014200.pdf)
+- **Rechtsgrundlage und Bericht 2021:** [Bundestagsbericht 2021 (PDF)](https://dserver.bundestag.de/btd/20/099/2009900.pdf). Er ordnet die Befugnis auch dem BND zu und verweist auf §§ 3 und 5 BNDG. [Bericht ansehen](https://dserver.bundestag.de/btd/20/099/2009900.pdf)
+- **Technische Erklärung:** [DHS-Studie „Mobile Device Security“ (PDF)](https://nsarchive.gwu.edu/sites/default/files/documents/3720966/Department-of-Homeland-Security-Study-on-Mobile.pdf). Sie behandelt IMSI-Catcher als Mobilfunkbedrohung. Es handelt sich um eine US-Regierungsstudie, nicht um einen NSA-Bericht. [Studie ansehen](https://nsarchive.gwu.edu/sites/default/files/documents/3720966/Department-of-Homeland-Security-Study-on-Mobile.pdf)
+
 ---
 
 <a name="english"></a>
@@ -107,6 +113,12 @@ The USRP B210 supports 2x2 MIMO and up to 56 MHz of instantaneous bandwidth. Sui
 The lab is intended for research on owned systems and in controlled radio environments. Third-party phones, subscriber identities and public mobile networks are not targets.
 
 RF shielding does not replace any required spectrum assignment or regulatory authorization. Radio transmissions will only be performed when all legal and technical requirements are met. Otherwise, experiments will use conducted connections, suitable shielded setups or recorded test data.
+
+### Background and Sources
+
+- **Direct official reference to the BND:** [German Bundestag report for 2022 (PDF)](https://dserver.bundestag.de/btd/20/142/2014200.pdf). It explains the function and legal basis of IMSI catchers and reports **30 deployments by the federal intelligence services** in 2022. The figure covers the BfV, BND and MAD together, not the BND alone. [View report](https://dserver.bundestag.de/btd/20/142/2014200.pdf)
+- **Legal basis and 2021 report:** [German Bundestag report for 2021 (PDF)](https://dserver.bundestag.de/btd/20/099/2009900.pdf). It also attributes this authority to the BND and refers to Sections 3 and 5 of the BND Act (BNDG). [View report](https://dserver.bundestag.de/btd/20/099/2009900.pdf)
+- **Technical explanation:** [DHS Study on Mobile Device Security (PDF)](https://nsarchive.gwu.edu/sites/default/files/documents/3720966/Department-of-Homeland-Security-Study-on-Mobile.pdf). It discusses IMSI catchers as a mobile network threat. This is a U.S. government study, not an NSA report. [View study](https://nsarchive.gwu.edu/sites/default/files/documents/3720966/Department-of-Homeland-Security-Study-on-Mobile.pdf)
 
 ---
 
